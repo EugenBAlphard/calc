@@ -1,11 +1,11 @@
-# Privacy Policy for SmartCalc
+# Privacy Policy for Calculator
 
 **Effective Date:** November 4, 2026  
-**Developer:** GeonSoft Studio
+**Developer:** GeonUk
 
 ## 1. Information Collection
 
-SmartCalc does not collect or transmit personal information to the developer or third parties.
+Calculator does not collect or transmit personal information to the developer or third parties.
 
 ## 2. Local Data Storage
 
@@ -15,11 +15,11 @@ Privacy policy acceptance is also stored locally so users do not need to accept 
 
 ## 3. Data Sharing
 
-SmartCalc does not share calculation history or other user information with external servers or third parties.
+Calculator does not share calculation history or other user information with external servers or third parties.
 
 ## 4. Internet Access
 
-SmartCalc does not require an internet connection to perform calculations and does not request internet access permission.
+Calculator does not require an internet connection to perform calculations and does not request internet access permission.
 
 ## 5. Data Deletion
 
@@ -27,7 +27,7 @@ Users can clear their saved calculation history within the application. Uninstal
 
 ## 6. Children's Privacy
 
-SmartCalc is intended for users aged 13 and older and does not knowingly collect personal information from children.
+Calculator is intended for users aged 13 and older and does not knowingly collect personal information from children.
 
 ## 7. Changes to This Policy
 
